@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(161, 226, 222);
+}
+#container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#login
+{
+    background-color: rgb(191, 161, 219);
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
